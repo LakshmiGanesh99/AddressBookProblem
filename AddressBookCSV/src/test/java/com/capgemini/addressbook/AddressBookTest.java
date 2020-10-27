@@ -13,3 +13,4 @@ public class AddressBookTest
     		Assert.assertEquals(3, numberOfContacts);
     }
 }
+ 
